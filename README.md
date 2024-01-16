@@ -10,7 +10,7 @@ If at any point you have questions concerning this challenge and/or interview pr
 
 ## Challenge
 
-The data coding challenge revolves around processing of data using Python. Attached in this repository you will find a data file called data.json.  The data file is a list of records from a fictious sales challenge in which we need statistics for.  The file contains a few duplicates that must be deduped to get the final resultset as well.  The challenge is to create a python script, that parses the data.json file, and creates a final resultset json file called result.json.  
+The data coding challenge revolves around processing of data using Python. Attached in this repository you will find a data file called data.json.  The data file is a list of records from a fictitious sales challenge in which we need statistics for.  The file contains a few duplicates that must be deduped to get the final resultset as well.  The challenge is to create a python script, that parses the data.json file, and creates a final resultset json file called result.json.  
 
 The calculations and structure of this **single json object** should be as follows:
 
